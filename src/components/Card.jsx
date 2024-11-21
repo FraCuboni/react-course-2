@@ -1,10 +1,6 @@
 import './Card.css';
 
 function Card({ title, description, imgURL }) {
-
-    // creo proprietà della card
-
-
     return (
         <div className="card">
             <div className="image-box">
